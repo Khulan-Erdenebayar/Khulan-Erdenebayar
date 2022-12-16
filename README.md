@@ -5,10 +5,10 @@
 * 📫 How to reach me: Discord-  Khulan#1447
 * ❤️ I love reading and listening podcasts
 
-Papers with code (https://github.com/facebookresearch/demucs)
+Papers with code [:sparkles:](https://github.com/facebookresearch/demucs)
 
 
-Related fork  repository (https://paperswithcode.com/paper/music-source-separation-in-the-waveform-1)
+Related fork  repository [:butterfly:](https://paperswithcode.com/paper/music-source-separation-in-the-waveform-1)
 
 
 [My page](https://khulan-erdenebayar.github.io/)
