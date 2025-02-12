@@ -1,6 +1,5 @@
 ### Hi there 👋
 * 👂 My name is Khulan Erdenebayar
-* 🌱 I’m currently learning c++, python 
 * 📫 How to reach me: Discord-  Khulan#1447
 
 Papers with code [:sparkles:](https://github.com/facebookresearch/demucs)
