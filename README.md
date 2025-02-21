@@ -32,9 +32,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 🚀 Featured Projects  
-- **Papers with Code** [:sparkles:]([https://github.com/facebookresearch/demucs](https://github.com/Khulan-Erdenebayar/Fraud-detection))  
 
+## 🚀 Featured Projects  
+- **Papers with Code** [:sparkles:](https://github.com/Khulan-Erdenebayar/Fraud-detection)  
 
 ## 🌟 Looking for Opportunities  
 📌 *I'm currently seeking an internship in Data Science or AI. Open to collaborations and exciting projects!*  
