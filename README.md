@@ -33,8 +33,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 🚀 Featured Projects  
-- **Papers with Code** [:sparkles:](https://github.com/facebookresearch/demucs)  
-- **Related Fork Repository** [:butterfly:](https://paperswithcode.com/paper/music-source-separation-in-the-waveform-1)  
+- **Papers with Code** [:sparkles:]([https://github.com/facebookresearch/demucs](https://github.com/Khulan-Erdenebayar/Fraud-detection))  
 
 
 ## 🌟 Looking for Opportunities  
